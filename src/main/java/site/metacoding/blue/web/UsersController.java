@@ -1,12 +1,12 @@
-package site.metacoding.red.web;
+package site.metacoding.blue.web;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 import lombok.RequiredArgsConstructor;
-import site.metacoding.red.domain.users.Users;
-import site.metacoding.red.domain.users.UsersDao;
+import site.metacoding.blue.domain.users.Users;
+import site.metacoding.blue.domain.users.UsersDao;
 
 @RequiredArgsConstructor
 @RestController

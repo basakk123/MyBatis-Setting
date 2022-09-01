@@ -1,10 +1,10 @@
-package site.metacoding.red;
+package site.metacoding.blue;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RedApplicationTests {
+class BlueApplicationTests {
 
 	@Test
 	void contextLoads() {

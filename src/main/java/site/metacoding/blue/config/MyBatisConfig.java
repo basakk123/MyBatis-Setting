@@ -1,4 +1,4 @@
-package site.metacoding.red.config;
+package site.metacoding.blue.config;
 
 import javax.sql.DataSource;
 

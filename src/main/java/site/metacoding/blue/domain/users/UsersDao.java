@@ -1,4 +1,4 @@
-package site.metacoding.red.domain.users;
+package site.metacoding.blue.domain.users;
 
 public interface UsersDao {
 	public void insert(Users user);
